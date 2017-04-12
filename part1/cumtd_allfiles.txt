@@ -1,0 +1,10 @@
+agency.txt
+calendar.txt
+calendar_dates.txt
+fare_attributes.txt
+fare_rules.txt
+routes.txt
+shapes.txt
+stop_times.txt
+stops.txt
+trips.txt
