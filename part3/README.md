@@ -1,8 +1,11 @@
+# LIS 590 Data Visualization Spring 2017 
+## Component 3
+
 This is the ipython notebook for Component 3 of Group Summer.
 
 Run the ipython notebook and the output files will be saved at the current work directory.
 
-Component 3: System for Receiving New Data
+## Requirment: System for Receiving New Data
 
 Concept: Given limited information about a dataset, what types of all-purpose visualizations can you construct to provide an overview of the data?
 
