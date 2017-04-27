@@ -11,12 +11,12 @@ Concept: Given limited information about a dataset, what types of all-purpose vi
 
 You will build a function which will either produce a visualization (either static or interactive) that provides an overview of the data. This may mean applying heuristics to the data to guess at different possible interesting characteristics. This function should accept a pandas dataframe.
 
-The data will have at least eight columns:
+The data will have at **least eight** columns:
 
-Name
-Date
-Latitude, longitude
-At least 1 Categorical label
-At least 3 Quantitive columns
+* Name
+* Date
+* Latitude, longitude
+* At least 1 Categorical label
+* At least 3 Quantitive columns
 
 There will be three sample datasets provided.
