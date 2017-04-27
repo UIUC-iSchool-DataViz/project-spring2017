@@ -1,7 +1,7 @@
 # LIS 590 Data Visualization Spring 2017 
 ## Component 3
 
-This is the ipython notebook for Component 3 of Group Summer.
+This is the ipython notebook for Component 3 of *Group Summer*.
 
 Run the ipython notebook and the output files will be saved at the current work directory.
 
