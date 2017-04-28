@@ -3,7 +3,7 @@
 
 This is the folder for Component 1 of *Group Summer*.
 
-Including a ipython notebook of the source code, a pdf file of all the data visualizations, and several data files.
+Including an ipython notebook of the source codes, a pdf file of all the data visualizations, and several data files.
 
 ## Requirement: Procedural, Bespoke Visualization
 
