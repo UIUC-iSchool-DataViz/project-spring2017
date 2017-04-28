@@ -1,4 +1,9 @@
+# LIS 590 Data Visualization Spring 2017 
+## Component 2
 
+This is the folder for Component 2 of *Group Summer*.
+
+Including an ipython notebook of the interactive data visualizations, and several data files.
 
 
 ## Requirment: Interactive, Bespoke Visualization
