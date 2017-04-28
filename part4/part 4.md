@@ -15,7 +15,3 @@
 * ##### Things we wish to have done
 	
 	If we had gathered more information about the dataset, we would have shared more insights about the data.
-
-* ##### Group contribution for each part of the visualization: 
-     * Infographic: Niteesh, Shivank, Sreeharsha
-     * Write up: Niteesh, Shivank

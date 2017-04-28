@@ -16,9 +16,5 @@ We believe more research could have been done on related attributes to the data,
 
 	We wished to have utilized FRED and GDP data, and other datasets.
 
-* ##### Group contribution for each part of the visualization: 
-     * Coding: Arpit, Niteesh, Sreeharsha
-     * Data Management: Niteesh
-     * Data Cleaning: Niteesh
-     * Write up: Shivank
+
         

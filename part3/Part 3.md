@@ -17,8 +17,3 @@
 		
      If we had data that had been collected with a more practical approach.We could have used it to find more insights. 
 
-* ##### Group contribution for each part of the visualization: 
-     * Coding: Arpit, Sreeharsha
-     * Data Management: Niteesh
-     * Data Cleaning: Shivank
-     * Write up: Shivank

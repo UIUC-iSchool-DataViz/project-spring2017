@@ -22,8 +22,3 @@
 
 	We could have found more insights about each route and trip.
     
-* ##### Group contribution for each part of the visualization: 
-     * Coding: Arpit, Niteesh, Shivank
-     * Data Management: Arpit
-     * Data Cleaning: Arpit, Sreeharsha
-     * Write up: Shivank
