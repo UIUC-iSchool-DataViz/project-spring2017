@@ -1,4 +1,4 @@
-# Final Project: LIS590DV - Spring 2017
+# Final Project: Team Nexus LIS590DV - Spring 2017 
 
 Your final project is composed of four parts.  You will work in groups of three
 or four people; each person will be expected to participate in the project.
